@@ -3,7 +3,10 @@ body{
 	background-color: #31E0C0;
 	color: #F76880;
 	text-decoration: none;
-	text-align: center;
+}
+
+#content {
+	background-color: #ADF3E6;
 }
 
 

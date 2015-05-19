@@ -9,6 +9,12 @@ main {
 h1 {
 	font-size: 60px;
 	font-weight: 600;
+	padding: 10px;
+	text-align: center;
+}
+
+#nav {
+	text-align: center;
 }
 
 li {
@@ -17,7 +23,7 @@ li {
 
 img {
 	max-width: 250px;
-	margin: 10px auto;
+	margin: 15px;
 	float: right;
 	border-width: 3px;
 }
@@ -50,5 +56,7 @@ small {
 	padding: 10px;
 	margin: 10px;
 }
+
+
 
 
