@@ -3,11 +3,14 @@ body{
 	background-color: #31E0C0;
 	color: #F76880;
 	text-decoration: none;
-
+	text-align: center;
 }
+
 
 img {
 	border-radius: 10px;
+	border-style: dotted;
+	border-color: #F76880;;
 }
 
 a {
@@ -18,3 +21,4 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
