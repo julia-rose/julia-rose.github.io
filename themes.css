@@ -1,0 +1,15 @@
+body{
+	font-family: 'Helvetica', sans-serif;
+	background-color: #31E0C0;
+	color: #F76880;
+	text-decoration: none;
+
+}
+
+img {
+	border-radius: 10px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
